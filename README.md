@@ -1,11 +1,11 @@
 # Electrical-Design
 Electrical Design Software Package
 
-##Project Goal
+## Project Goal
 
 The goal of this project is to create a user friendly electrical design application. The end goal is to have a high constructability for ease of field installation.
 
-##Project Design Guide
+## Project Design Guide
 
 To get a high level view of the application, please view the Electrical Design Software Flowhchart (in progress).
 
