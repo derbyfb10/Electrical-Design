@@ -7,7 +7,7 @@ The goal of this project is to create a user friendly electrical design applicat
 
 ## Project Design Guide
 
-To get a high level view of the application, please view the Electrical Design Software Flowhchart (in progress).
+To get a high level view of the application, please view the Electrical Design Software Flowchart (in progress).
 
 BELOW TO BE FILLED OUT LATER
 ____________________________________________________________________________________________________________________________________
